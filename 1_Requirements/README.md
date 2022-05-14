@@ -1,5 +1,5 @@
 
-# Wiper Control Sysytem :
+# Wiper Control System :
 
 # INTRODUCTION :
 
