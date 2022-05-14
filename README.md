@@ -9,3 +9,7 @@
 ![svg](https://user-images.githubusercontent.com/102144142/168418282-be471358-7569-446c-8078-3aeda5301e2d.svg)
 ![svg](https://user-images.githubusercontent.com/102144142/168418283-42a9f7a7-cf3f-4a6e-8585-4fd5257ada6c.svg)
 
+## Build on Linux
+
+[![Build-Linux CI](https://github.com/Sudharshank234/M3_Wiper_control_system/actions/workflows/Build%20on%20Linux.yml/badge.svg)](https://github.com/Sudharshank234/M3_Wiper_control_system/actions/workflows/Build%20on%20Linux.yml)
+
